@@ -158,9 +158,6 @@ body {
 }
 .menu {
   display: flex;
-  align-items: center;
-  align-self: flex-start;
-  margin-top: 7px;
 
   &__list {
     display: flex;
@@ -198,6 +195,7 @@ body {
   }
 }
 .contact {
+
   a {
     font-family: "Open Sans";
     font-size: 25px;
@@ -326,7 +324,7 @@ body {
     font-size: 18px;
     text-transform: uppercase;
 
-    color: #ffffff;
+    color: #FFFFFF;
   }
 }
 
@@ -675,7 +673,7 @@ body {
     color: #ffffff;
     text-transform: uppercase;
 
-    background: #30a16d;
+    background: #30A16D;
     border-radius: 35px;
 
     font-family: Open Sans;
@@ -756,8 +754,9 @@ body {
     font-size: 18px;
     text-transform: uppercase;
 
-    color: #ffffff;
+    color: #FFFFFF;
   }
+
 }
 
 //footer
