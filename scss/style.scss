@@ -158,6 +158,9 @@ body {
 }
 .menu {
   display: flex;
+  align-items: center;
+  align-self: flex-start;
+  margin-top: 7px;
 
   &__list {
     display: flex;
